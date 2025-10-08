@@ -1,0 +1,35 @@
+.six{
+    margin-top: 1%;
+}
+.seven{
+    padding-top: 3%;
+    background-color: rgb(6, 67, 65)   
+}
+.eight{
+    background-color: gainsboro;
+    color:rgb(125, 120, 120);
+}
+.right{
+    padding-left: 8%;
+
+}
+.row5{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  column-gap:4%; 
+  padding-left:10%;
+}
+.col-17{
+  
+  padding: 2%;
+}
+
+.drink{
+  padding-left: 10%;
+  font-size: larger;
+}
+.button2{
+  color: white;
+  background-color: rgb(10, 66, 66);
+}

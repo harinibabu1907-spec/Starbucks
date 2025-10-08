@@ -1,0 +1,16 @@
+.nav1{
+  padding-top:1%;
+  width: 100%;
+}
+
+li{
+    display: inline;
+    padding: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:300;
+}
+
+.or{
+    text-decoration: none;
+    color: black;
+}
